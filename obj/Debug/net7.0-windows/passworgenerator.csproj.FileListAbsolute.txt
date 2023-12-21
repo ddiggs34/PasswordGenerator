@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Desktop\practice\passworgenerator\bin\Debug\net7.0-windows\passworgenerator.exe
+C:\Users\Admin\OneDrive\Desktop\practice\passworgenerator\bin\Debug\net7.0-windows\passworgenerator.deps.json
+C:\Users\Admin\OneDrive\Desktop\practice\passworgenerator\bin\Debug\net7.0-windows\passworgenerator.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\practice\passworgenerator\bin\Debug\net7.0-windows\passworgenerator.dll
+C:\Users\Admin\OneDrive\Desktop\practice\passworgenerator\bin\Debug\net7.0-windows\passworgenerator.pdb
+C:\Users\Admin\OneDrive\Desktop\practice\passworgenerator\obj\Debug\net7.0-windows\passworgenerator.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\practice\passworgenerator\obj\Debug\net7.0-windows\passworgenerator.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\practice\passworgenerator\obj\Debug\net7.0-windows\passworgenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\practice\passworgenerator\obj\Debug\net7.0-windows\passworgenerator.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\practice\passworgenerator\obj\Debug\net7.0-windows\passworgenerator.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\practice\passworgenerator\obj\Debug\net7.0-windows\passworgenerator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\practice\passworgenerator\obj\Debug\net7.0-windows\passworgenerator.dll
+C:\Users\Admin\OneDrive\Desktop\practice\passworgenerator\obj\Debug\net7.0-windows\refint\passworgenerator.dll
+C:\Users\Admin\OneDrive\Desktop\practice\passworgenerator\obj\Debug\net7.0-windows\passworgenerator.pdb
+C:\Users\Admin\OneDrive\Desktop\practice\passworgenerator\obj\Debug\net7.0-windows\passworgenerator.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\practice\passworgenerator\obj\Debug\net7.0-windows\ref\passworgenerator.dll
